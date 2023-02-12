@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra
+ls -d -la pwd cd.. /boot
