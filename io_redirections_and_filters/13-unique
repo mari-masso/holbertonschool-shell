@@ -1,2 +1,2 @@
 #!/bin/bash
-xargas -n 1 < list | sort -u
+sort -u list
