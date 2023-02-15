@@ -1,2 +1,2 @@
 #!/bin/bash
-var =$(whoami) | echo "hello $var"
+var=$(whoami) | echo "hello $var"
