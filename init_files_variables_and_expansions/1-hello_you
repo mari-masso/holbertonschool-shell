@@ -1,2 +1,2 @@
 #!/bin/bash
-var=$(whoami) | echo "hello $var"
+alias user="whoami" | echo "hello user"
