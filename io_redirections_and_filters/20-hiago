@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'Tt'
+tr -d 'C' 'c'
